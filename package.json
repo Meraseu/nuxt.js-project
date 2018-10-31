@@ -1,7 +1,7 @@
 {
   "name": "nuxt.js-project",
   "version": "1.0.0",
-  "description": "My premium Nuxt.js project",
+  "description": "My phenomenal Nuxt.js project",
   "author": "meraseudev",
   "private": true,
   "scripts": {
@@ -12,12 +12,11 @@
   },
   "dependencies": {
     "cross-env": "^5.2.0",
-    "npm": "^6.4.1",
-    "nuxt": "^2.0.0"
+    "node-sass": "^4.9.4",
+    "nuxt": "^2.0.0",
+    "sass-loader": "^7.1.0"
   },
   "devDependencies": {
-    "node-sass": "^4.9.4",
-    "nodemon": "^1.11.0",
-    "sass-loader": "^7.1.0"
+    "nodemon": "^1.11.0"
   }
 }
